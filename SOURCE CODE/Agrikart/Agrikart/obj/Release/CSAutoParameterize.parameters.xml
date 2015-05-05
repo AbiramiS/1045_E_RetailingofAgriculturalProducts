@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-Agrikart-20150226095820;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-Agrikart-20150226095820.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Ganesh\\online\ vegetables\\Agrikart\\Agrikart\\Agrikart\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultValue="Data Source=GTSDOTNET20\SQLEXPRESS;Initial Catalog=agrikart;User ID=sa;password=redhat" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Ganesh\\online\ vegetables\\Agrikart\\Agrikart\\Agrikart\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+</parameters>

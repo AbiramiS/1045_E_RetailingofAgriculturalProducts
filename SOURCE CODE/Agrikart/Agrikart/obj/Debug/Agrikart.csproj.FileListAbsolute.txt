@@ -1,0 +1,197 @@
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Agrikart.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Agrikart.pdb
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Antlr3.Runtime.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\EntityFramework.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.Web.Infrastructure.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\System.Web.Optimization.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\System.Web.Providers.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\WebGrease.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\EntityFramework.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Ganesh\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.dll
+E:\Ganesh\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.pdb
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Agrikart.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Agrikart.pdb
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Antlr3.Runtime.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\EntityFramework.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\System.Web.Optimization.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\System.Web.Providers.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\WebGrease.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\EntityFramework.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.dll
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.pdb
+C:\Users\gts\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Agrikart.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Agrikart.pdb
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\System.Web.Providers.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\WebGrease.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.dll
+C:\Users\Dell\Desktop\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.pdb
+F:\Share\New folder (2)\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.csprojResolveAssemblyReference.cache
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Agrikart.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Agrikart.pdb
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Antlr3.Runtime.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\EntityFramework.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.Web.Infrastructure.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\System.Web.Optimization.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\System.Web.Providers.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\WebGrease.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\EntityFramework.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.dll
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.pdb
+D:\Ganesh\online vegetables\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.csprojResolveAssemblyReference.cache
+D:\Agrikart\Agrikart\Agrikart\bin\Agrikart.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Agrikart.pdb
+D:\Agrikart\Agrikart\Agrikart\bin\Antlr3.Runtime.dll
+D:\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.dll
+D:\Agrikart\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.dll
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.dll
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.dll
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.dll
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Agrikart\Agrikart\Agrikart\bin\EntityFramework.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.Web.Infrastructure.dll
+D:\Agrikart\Agrikart\Agrikart\bin\System.Web.Optimization.dll
+D:\Agrikart\Agrikart\Agrikart\bin\System.Web.Providers.dll
+D:\Agrikart\Agrikart\Agrikart\bin\WebGrease.dll
+D:\Agrikart\Agrikart\Agrikart\bin\EntityFramework.xml
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.xml
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.xml
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.xml
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Agrikart\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.xml
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Agrikart\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.dll
+D:\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.pdb
+D:\Agrikart\Agrikart\Agrikart\obj\Debug\Agrikart.csprojResolveAssemblyReference.cache
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Agrikart.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Agrikart.pdb
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Antlr3.Runtime.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\EntityFramework.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.ScriptManager.WebForms.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.Web.Infrastructure.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\System.Web.Optimization.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\System.Web.Providers.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\WebGrease.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\EntityFramework.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.Core.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\DotNetOpenAuth.AspNet.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\obj\Debug\Agrikart.csprojResolveAssemblyReference.cache
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\obj\Debug\Agrikart.dll
+D:\pROJECT\cd\SOURCE CODE\Agrikart\Agrikart\obj\Debug\Agrikart.pdb

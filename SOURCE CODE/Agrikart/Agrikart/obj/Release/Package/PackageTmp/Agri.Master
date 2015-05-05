@@ -1,0 +1,147 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Agri.master.cs" Inherits="Agrikart.Agri" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Agri cart</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="Scripts/cufon-yui.js"></script>    
+<script type="text/javascript" src="Scripts/arial.js"></script>
+<script type="text/javascript" src="Scripts/cuf_run.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo"><h1><a href="index.html"><small>put your slogan here</small><span>Agri</span> Cart</a></h1></div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="hbg">
+    <div class="hbg_resize">
+      <div class="menu_nav">
+        <ul>
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a href="support.html">Support</a></li>
+          <li><a href="about.html">About Us</a></li>
+
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <h2>Read me first...</h2>
+      <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac magna a turpis ornare aliquam id hendrerit nisl.</strong></p>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac magna a turpis ornare aliquam id hendrerit nisl. Pellentesque adipiscing blandit mollis. Curabitur varius est et sem rhoncus et pretium massa molestie.</p>
+      <a href="#"><img src="images/readmore.jpg" width="135" height="67" alt="readmore" border="0" /></a>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+
+
+           </asp:ContentPlaceHolder>
+          
+        </div>
+        <div class="clr"></div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2 class="star">Sidebar Menu</h2>
+          <ul class="sb_menu">
+            <li><a href="#">Home</a></li>
+
+            <li><a href="#">TemplateInfo</a></li>
+            <li><a href="#">Style Demo</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Archives</a></li>
+            <li><a href="" title="Website Templates">Web Templates</a></li>
+          </ul>
+
+        </div>
+        <div class="gadget">
+          <h2 class="star">Sponsors</h2>
+          <ul class="ex_menu">
+            <li><a href="" title="Website Templates">DreamTemplate</a><br />Over 6,000+ Premium Web Templates</li>
+            <li><a href="">TemplateSOLD</a><br />Premium WordPress &amp; Joomla Themes</li>
+
+            <li><a href="" title="Affordable Hosting">ImHosted.com</a><br />Affordable Web Hosting Provider</li>
+            <li><a href="" title="Stock Icons">MyVectorStore</a><br />Royalty Free Stock Icons</li>
+            <li><a href="" title="Website Builder">Evrsoft</a><br />Website Builder Software &amp; Tools</li>
+            <li><a href="" title="CSS Templates">CSS Hub</a><br />Premium CSS Templates</li>
+
+          </ul>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+
+      <div class="col c1">
+        <h2>Image Gallery</h2>
+        <a href="#"><img src="images/pix1.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/pix2.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/pix3.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/pix4.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/pix5.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/pix6.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+
+        <div class="clr"></div>
+      </div>
+      <div class="col c2">
+        <h2><span>Lorem Ipsum</span></h2>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero.</p>
+        <ul class="sb_menu">
+          <li><a href="#">sem justo</a></li>
+
+          <li><a href="#">semper</a></li>
+          <li><a href="#">magna sed purus</a></li>
+          <li><a href="#">tincidunt</a></li>
+        </ul>      </div>
+      <div class="col c3">
+        <h2>Contact</h2>
+
+        <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat.</p>
+        <p><strong>Phone:</strong> +1234567<br />
+          <strong>Address:</strong> 123 TemplateAccess Rd1<br />
+          <strong>E-mail:</strong> <a href="">me@jungleland.com</a></p>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <ul class="fmenu">
+        <li class="active"><a href="index.html">Home</a></li>
+
+        <li><a href="support.html">Support</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contacts</a></li>
+      </ul>
+      <p class="lf">© Copyright <a href="#">MyWebSite</a>. Layout by [Z] <a href="">Website Templates</a></p>
+
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+        </form>
+</body>
+</html>
+

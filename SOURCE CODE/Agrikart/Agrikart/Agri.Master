@@ -1,0 +1,136 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Agri.master.cs" Inherits="Agrikart.Agri" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Agrikart</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<%--<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />--%>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="Scripts/cufon-yui.js"></script>    
+<script type="text/javascript" src="Scripts/arial.js"></script>
+<script type="text/javascript" src="Scripts/cuf_run.js"></script>
+    </head>
+<body>
+    <form id="form1" runat="server">
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo"><h1><a href="#"><small>The Discovery of Agriculture was the big step toward a civilized mankind</small><span>Agri</span></a> kart</h1></div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="hbg">
+    <div class="hbg_resize">
+      <div class="menu_nav">
+        <ul>
+          <li><a href="HomePage.aspx">Home</a></li>
+          <li><a href="UsersRegistration.aspx" target="_blank">UserRegister</a></li>
+          <li><a href="FarmersRegistration.aspx">FarmerRegister</a></li>
+          <li><a href="Userlogin.aspx">Login</a></li>
+          <li><a href="Farmerlogin.aspx">Farmer</a></li>
+            <li><a href="Logout.aspx">Logout</a></li>
+          <li><a href="Contact Us.aspx">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <h2>Read me first...</h2>
+      <p><strong>India is the world's largest producer of many fresh fruits and vegetables, milk, major spices, select fibrous crops such as jute, several staples such as millets and castor oil seed.</strong></p>
+
+      <p> India is the second largest producer of wheat and rice, the world's major food staples,&nbsp; roots and tuber crops, pulses, farmed fish, eggs, coconut, sugarcane and numerous vegetables.</p>
+  
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+
+
+           </asp:ContentPlaceHolder>
+          
+        </div>
+        <div class="clr"></div>
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          
+            <%--<li><a href="#">Archives</a></li>
+            <li><a href="" title="Website Templates">Web Templates</a></li>--%>
+          </ul>
+
+        </div>
+        <div class="gadget">
+          <h2 class="star">Agri Markets</h2>
+            <div>
+                <img src="images/export_map.jpg" width="260px" height="230px" />
+            </div>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="fbg">
+    <div class="fbg_resize">
+
+      <div class="col c1">
+        <h2>Image Gallery</h2>
+        <a href="#"><img src="images/images%20(1).jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/images.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/RW6498_web.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/jre51.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/jre61.jpg" width="66" height="66" alt="ad" class="ad" /></a>
+        <a href="#"><img src="images/images%20(3).jpg" width="66" height="66" alt="ad" class="ad" /></a>
+
+        <div class="clr"></div>
+      </div>
+      <div class="col c2">
+        <h2><span>Agri Markets</span></h2>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A State is geographically divided and Market are established at different places within the states. Farmers have to sell their produce through the auction in mandi. To operate in Mandi, a trader has to get license. Wholesale, retail traders (e.g. shopping mall owner) or food processing company etc cannot buy farm output directly from farmer. They’ve to get it through the Mandi.</p>
+        <%--<ul class="sb_menu">
+          <li><a href="#">sem justo</a></li>
+
+          <li><a href="#">semper</a></li>
+          <li><a href="#">magna sed purus</a></li>
+          <li><a href="#">tincidunt</a></li>
+        </ul> --%>
+      </div>
+      <div class="col c3">
+        <h2>Contact</h2>
+
+        <p><b style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.3999996185303px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Agricultural Marketing Board</b><span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.3999996185303px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);"><span class="Apple-converted-space">&nbsp;</span>(</span><b style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.3999996185303px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">AMB</b><span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.3999996185303px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">)</span> 
+            <span style="color: rgb(37, 37, 37); font-family: sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 17.3185615539551px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(249, 249, 249);">Agriculture has a significant role in socio-economic fabric of India.</span></p>
+        <p><strong>Phone:</strong> +044-123456<br />
+          <strong>Address:</strong> Chennai, India<br />
+          <strong>E-mail:</strong><a href="#">abc@agricart.com</a></p>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <ul class="fmenu">
+        <li class="active"><a href="#"><img style="width:80px;height:60px" src="images/images%20(5).jpg" /></a></li>
+        <li><a href="#"><img style="width:80px;height:60px" src="images/images%20(6).jpg" /></a></li>
+        <li><a href="#"><img style="width:80px;height:60px" src="images/images%20(7).jpg" /></a></li>       
+        <li><a href="#"><img style="width:80px;height:60px" src="images/images%20(8).jpg" /></a></li>
+
+      </ul>
+      <p class="lf">© Copyright <a href="#">Agricultue</a>. Layout by&nbsp; <a href="#">Agri cart</a></p>
+
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+        </form>
+</body>
+</html>
+

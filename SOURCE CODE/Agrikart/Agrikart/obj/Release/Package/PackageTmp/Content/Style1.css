@@ -1,0 +1,32 @@
+﻿body {
+}
+.label
+{
+    font-family:Castellar;
+    font-size:medium;
+    color:green;    
+    align-content:center;
+}
+
+.text
+{
+    font-family:'Segoe Keycaps';
+    font-size:medium;
+    color:burlywood;
+}
+
+.header
+{
+    font-family:'Perpetua Titling MT';
+    font-size:large;
+    color:green;
+    align-content:center;
+}
+
+.labelcontrol
+{
+    font-family:'Papyrus';
+    font-size:medium;
+    color:brown;
+}
+
